@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericthedy
 - 👀 I’m interested in ... Software Developement, JavaScript, Python, SEO, Marketing
-- 🌱 I’m currently learning ... Vanilla JavaScript
+- 🌱 I’m currently learning ... Vanilla JavaScript and Python.
 - 💞️ I’m looking to collaborate on ... Open source projects
 - 📫 How to reach me ... erict70445@gmail.com
 
